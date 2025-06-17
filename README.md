@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default" alt="visitor_badge">
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2leohum69&countColor=%23263759&style=default" alt="visitor_badge">
 <h1 align="center">Hi 👋, I'm Mirza Humayun Masood</h1>
 <h3 align="center">A Cyber Security Student with some passion for Development and Devops</h3>
 
@@ -147,10 +147,15 @@
 
 <details>
   <summary><strong> Testing </strong> <sub> (click to expand) </sub></summary>
-  <br>  
+  <br>
+    
 ![Postman Badge](https://img.shields.io/badge/-Postman-3B4252?style=flat&logo=postman&logoColor=D08770)
 ![Pytest Badge](https://img.shields.io/badge/-Pytest-3B4252?style=flat&logo=pytest&logoColor=88C0D0)
 ![Selenium Badge](https://img.shields.io/badge/-Selenium-3B4252?style=flat&logo=selenium&logoColor=81A1C1)
+![JUnit 5 Badge](https://img.shields.io/badge/-JUnit%205-3B4252?style=flat&logo=junit5&logoColor=8FBCBB)
+![Cucumber Badge](https://img.shields.io/badge/-Cucumber-3B4252?style=flat&logo=cucumber&logoColor=88C0D0)
+![Mocha Badge](https://img.shields.io/badge/-Mocha-3B4252?style=flat&logo=mocha&logoColor=D08770)
+![NUnit Badge](https://img.shields.io/badge/-NUnit-3B4252?style=flat&logo=nunit&logoColor=88C0D0)
 
 <br>
 </details>
@@ -218,4 +223,3 @@ I am always eager to learn something new, collaborate on exciting projects, or d
 <a href="https://www.leetcode.com/subwaymkw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subwaymkw" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leohum69&show_icons=true&locale=en&layout=compact" alt="leohum69" /></p>
