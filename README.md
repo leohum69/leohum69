@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2leohum69&countColor=%23263759&style=default" alt="visitor_badge">
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fleohum69&countColor=%23263759&style=default" alt="visitor badge"/>
 <h1 align="center">Hi 👋, I'm Mirza Humayun Masood</h1>
 <h3 align="center">A Cyber Security Student with some passion for Development and Devops</h3>
 
@@ -196,7 +196,6 @@
   <summary><strong> Microcontrollers & IoT </strong> <sub> (click to expand) </sub></summary>
   <br>
 
-![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-3B4252?style=flat&logo=raspberrypi&logoColor=BF616A)
 ![Arduino Badge](https://img.shields.io/badge/-Arduino-3B4252?style=flat&logo=arduino&logoColor=A3BE8C)
 
 <br>
