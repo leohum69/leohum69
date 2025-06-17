@@ -152,10 +152,6 @@
 ![Postman Badge](https://img.shields.io/badge/-Postman-3B4252?style=flat&logo=postman&logoColor=D08770)
 ![Pytest Badge](https://img.shields.io/badge/-Pytest-3B4252?style=flat&logo=pytest&logoColor=88C0D0)
 ![Selenium Badge](https://img.shields.io/badge/-Selenium-3B4252?style=flat&logo=selenium&logoColor=81A1C1)
-![JUnit 5 Badge](https://img.shields.io/badge/-JUnit%205-3B4252?style=flat&logo=junit5&logoColor=8FBCBB)
-![Cucumber Badge](https://img.shields.io/badge/-Cucumber-3B4252?style=flat&logo=cucumber&logoColor=88C0D0)
-![Mocha Badge](https://img.shields.io/badge/-Mocha-3B4252?style=flat&logo=mocha&logoColor=D08770)
-![NUnit Badge](https://img.shields.io/badge/-NUnit-3B4252?style=flat&logo=nunit&logoColor=88C0D0)
 
 <br>
 </details>
