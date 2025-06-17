@@ -16,21 +16,34 @@
     
 </p>
 
-<details>
-  <summary><strong>FAST NUCES: BSc. Cyber Security</strong> <sub> (click to expand) </sub>
-    <p align=right><sub>Waiting for my results ⏳</sub></p>
-  </summary>
-  
-###### FAST NUCES: BSc. Cyber Security
-> [![](https://img.shields.io/badge/-🎓%20Bachelor%20Thesis%20Portfolio%20Website-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
-> [![](https://img.shields.io/badge/-🦾%20AI%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
-> [![](https://img.shields.io/badge/-📝%20NLP%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
-> [![](https://img.shields.io/badge/-🎧%20Audio%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
-> [![](https://img.shields.io/badge/-🎬%20Graphics%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
-> [![](https://img.shields.io/badge/-🎨%20Generative%20Art%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)
-
-<br>
-</details>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/leohum69/Code">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leohum69&repo=Code&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/leohum69/Image-Moderation-FastAPI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leohum69&repo=Image-Moderation-FastAPI&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/leohum69/Secure-Chat-Application">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leohum69&repo=Secure-Chat-Application&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/leohum69/spotify-downloader">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leohum69&repo=spotify-downloader&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 - 📫 How to reach me **subwaymkw@gmail.com**
 
