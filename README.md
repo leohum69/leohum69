@@ -1,7 +1,36 @@
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default" alt="visitor_badge">
 <h1 align="center">Hi 👋, I'm Mirza Humayun Masood</h1>
-<h3 align="center">A Cyber Security Student with some passion for Development and Devopss</h3>
+<h3 align="center">A Cyber Security Student with some passion for Development and Devops</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leohum69" alt="leohum69" /></a> </p>
+<p align="center">
+  <a href="https://github.com/MarieLynneBlock/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MarieLynneBlock&theme=nord&&column=9&row=1" />
+  </a>
+</p>
+
+## 📈 My GitHub stats
+
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=leohum69&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&count_private=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" width="420" height="180"/>
+    
+</p>
+
+<details>
+  <summary><strong>FAST NUCES: BSc. Cyber Security</strong> <sub> (click to expand) </sub>
+    <p align=right><sub>Waiting for my results ⏳</sub></p>
+  </summary>
+  
+###### FAST NUCES: BSc. Cyber Security
+> [![](https://img.shields.io/badge/-🎓%20Bachelor%20Thesis%20Portfolio%20Website-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
+> [![](https://img.shields.io/badge/-🦾%20AI%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
+> [![](https://img.shields.io/badge/-📝%20NLP%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
+> [![](https://img.shields.io/badge/-🎧%20Audio%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
+> [![](https://img.shields.io/badge/-🎬%20Graphics%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)  
+> [![](https://img.shields.io/badge/-🎨%20Generative%20Art%20Projects%20Portfolio-3B4252?style=flat)](https://github.com/MarieLynneBlock/todo)
+
+<br>
+</details>
 
 - 📫 How to reach me **subwaymkw@gmail.com**
 
