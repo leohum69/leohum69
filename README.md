@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mirza Humayun Masood</h1>
 <h3 align="center">A Cyber Security Student with some passion for Development and Devops</h3>
 
-<p align="center">
-  <a href="https://github.com/MarieLynneBlock/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MarieLynneBlock&theme=nord&&column=9&row=1" />
-  </a>
-</p>
 
 ## 📈 My GitHub stats
 
