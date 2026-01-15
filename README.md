@@ -161,8 +161,6 @@
 <br>
 </details>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leohum69&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
-
 ##### 🖇️ Let’s Connect!
 I am always eager to learn something new, collaborate on exciting projects, or discuss any of my works. Don't hesitate to reach out if you’re curious or have something interesting to share!
 <br/>
